@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T14:37:58.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="_Vyc4WhTS27NZmIqC8fa" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T14:52:07.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="wvK2dX6gEyxhBb7FF16U" version="14.9.1" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="2004" dy="1448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5010" dy="3620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,20 +136,8 @@
         <mxCell id="1a8abee3a6cfdf20-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.secureConnection;fillColor=#000000;strokeColor=#ffffff;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="911" y="1358" width="56.99999999999999" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="d5ac148becb70bc-14" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;labelBackgroundColor=none;strokeWidth=5;fontFamily=Verdana;fontSize=12" parent="1" edge="1">
-          <mxGeometry width="50" height="100" relative="1" as="geometry">
-            <mxPoint x="462" y="1368" as="sourcePoint" />
-            <mxPoint x="1602" y="1668" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="902" y="1558" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d5ac148becb70bc-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;rounded=1;shadow=0;comic=0;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="443" y="1356" width="39" height="23" as="geometry" />
-        </mxCell>
         <mxCell id="d5ac148becb70bc-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.secureConnection;fillColor=#000000;strokeColor=#ffffff;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="1538" y="1668" width="56.99999999999999" height="34" as="geometry" />
+          <mxGeometry x="1570" y="1650" width="56.99999999999999" height="34" as="geometry" />
         </mxCell>
         <mxCell id="naoGnowCbamkJ9aCvMaT-8" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;labelBackgroundColor=none;strokeWidth=5;fontFamily=Verdana;fontSize=12;exitX=0.231;exitY=0.782;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.962;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1a8abee3a6cfdf20-1" target="1a8abee3a6cfdf20-4">
           <mxGeometry width="50" height="100" relative="1" as="geometry">
@@ -174,11 +162,11 @@
         <mxCell id="naoGnowCbamkJ9aCvMaT-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.arrowSE;fillColor=#000000;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="660" y="920" width="415.03" height="236" as="geometry" />
         </mxCell>
-        <mxCell id="naoGnowCbamkJ9aCvMaT-13" value="SEND VALUE OF &lt;br&gt;LOCKED LP + YIELD" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1051" width="100" height="40" as="geometry" />
+        <mxCell id="naoGnowCbamkJ9aCvMaT-13" value="SEND VALUE OF INITIAL&lt;br&gt;LOCKED LP + YIELD" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="637" y="1017" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="naoGnowCbamkJ9aCvMaT-16" value="APPROVE&amp;nbsp;&lt;br&gt;OVERCOLLATERALIZATION&amp;nbsp;&lt;br&gt;AND MINTABLE&lt;br&gt;AMOUNT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="817.51" y="1240" width="100" height="40" as="geometry" />
+        <mxCell id="naoGnowCbamkJ9aCvMaT-16" value="APPROVE&amp;nbsp;&lt;br&gt;OVERCOLLATERALIZATION&amp;nbsp;&lt;br&gt;AND MINTABLE&lt;br&gt;AMOUNT&amp;nbsp;&lt;br&gt;BASED ON RISK&amp;nbsp;&lt;br&gt;TYPE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="774" y="1190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="naoGnowCbamkJ9aCvMaT-18" value="SEND LP TO VAULT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="1119" width="100" height="40" as="geometry" />
@@ -194,6 +182,25 @@
         </mxCell>
         <mxCell id="naoGnowCbamkJ9aCvMaT-25" value="SERUM DEX" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="900" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="naoGnowCbamkJ9aCvMaT-28" value="REDEPLOYER" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="518.9" y="889.8" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="naoGnowCbamkJ9aCvMaT-31" value="USDr MINTER" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="1368" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="naoGnowCbamkJ9aCvMaT-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.arrowSE;fillColor=#000000;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="410" y="809.06" width="72" height="40.94" as="geometry" />
+        </mxCell>
+        <mxCell id="naoGnowCbamkJ9aCvMaT-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;rounded=1;shadow=0;comic=0;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;flipV=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1684" width="39" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="naoGnowCbamkJ9aCvMaT-35" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;labelBackgroundColor=none;strokeWidth=5;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="389" y="1442.95" as="sourcePoint" />
+            <mxPoint x="1550" y="1700" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
